@@ -1,7 +1,7 @@
 # 🛡️ GH Forensics
 
 <p align="center">
-  <img src="screenshots/logo.png" width="180">
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 </p>
 
 <p align="center">
