@@ -1,12 +1,16 @@
+<div align="center">
+
 # 🛡️ GH Forensics
 
-<p align="center">
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-</p>
+### Inspection system
 
-<p align="center">
-A Windows Digital Forensics & Incident Response (DFIR) desktop application built with Python.
-</p>
+*A Windows Digital Forensics & Incident Response (DFIR) desktop application built with Python.*
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+📷 Screenshots • 🎥 Demo • 🏗 Architecture • 🚀 Features
+
+</div>
 
 ---
 
